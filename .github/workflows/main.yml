@@ -122,4 +122,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: nikrozhok/taski_gateway:latest
+          tags: nikrozhok755/taski_gateway:latest
